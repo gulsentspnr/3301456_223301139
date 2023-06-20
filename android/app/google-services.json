@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1040006324342",
+    "project_id": "bulanut-mobile-5bb80",
+    "storage_bucket": "bulanut-mobile-5bb80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040006324342:android:5e8e06c8188722d1d2bf57",
+        "android_client_info": {
+          "package_name": "com.example.bulanut_mobile_v5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040006324342-n2rh93l3f5dj0i67ho4ji8pqo49kr4ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9k3cKveoSXEq56EOHmATOzPJoXTBNj3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040006324342-n2rh93l3f5dj0i67ho4ji8pqo49kr4ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
